@@ -1,0 +1,23 @@
+10
+Alice Bob
+David Emily
+Emily Frank
+Frank George
+George Helen
+Helen Ian
+Ian Jane
+Alice David
+Bob Emily
+David George
+Emily Helen
+Frank Ian
+George Jane
+Ian Alice
+Jane Bob
+Alice Frank
+Bob George
+David Ian
+Emily Jane
+George Alice
+Helen Bob
+haji
